@@ -1,8 +1,4 @@
-- 👋 Hi, @IAmZiege
-- I’m interested in Programming, Video Games, Art, and Reading. 
-- I’m currently learning Software Development.
-- I’m looking to collaborate on ...
-- You can email me at /rossiquinnn@gmail/com. 
+Hi
 
 <!---
 IAmZiege/IAmZiege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
